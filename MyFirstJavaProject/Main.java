@@ -1,3 +1,4 @@
+package MyFirstJavaProject;
 import java.util.Scanner;
 
 public class Main {
